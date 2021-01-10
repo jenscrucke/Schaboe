@@ -2,6 +2,8 @@ global-styling:
   css:
     theme:
       css/styles.css: {}
+      css/extrastyles.css: {}
+      css/nieuwstijl.css: {}
   js:
     js/sshop.header.js: {}
     js/sshop.stacktable.js: {}

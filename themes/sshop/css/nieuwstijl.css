@@ -1,3 +1,12 @@
 .field.field--name-field-hondentypeimage.field--type-image.field--label-above.quickedit-field .field--label{
     display: none;
   }
+  #rsvplist-email-form label{
+color: #f36f36;
+  }
+  .region.region-sidebar-second h2{
+    color: #f36f36;
+  }
+  .view-filters.form-group label{
+    color: #f36f36;
+  }

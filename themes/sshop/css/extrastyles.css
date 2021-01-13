@@ -106,6 +106,38 @@
   border: 1px solid black;
   border-radius: 25px;
 }
+
+
+
+article.honden.node.full.clearfix img{
+
+  float: right;
+  padding-bottom: 40px;
+}
+
+.field.field--name-field-hondentypeimage.field--type-image.field--label-above .field--label{
+  display: none;
+}
+
+
+article.honden.node.full.clearfix .content .field--label{
+  font:bold;
+  font-size: 20px;
+  color: #f36f36;
+}
+article.honden.node.full.clearfix p {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+article.honden.node.full.clearfix article{
+  border: 1px solid black;
+  border-radius: 25px;
+}
+
+article.honden.node.full.clearfix {
+  border: 1px solid black;
+  border-radius: 25px;
+}
+
 /* honden */
 
 /* katten */
@@ -137,6 +169,38 @@
   border: 1px solid black;
   border-radius: 25px;
 }
+
+
+
+
+article.katten.node.full.clearfix img{
+
+  float: right;
+  padding-bottom: 40px;
+}
+
+.field.field--name-field-kattypeimage.field--type-image.field--label-above .field--label{
+  display: none;
+}
+
+
+article.katten.node.full.clearfix .content .field--label{
+  font:bold;
+  font-size: 20px;
+  color: #f36f36;
+}
+article.katten.node.full.clearfix p {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+article.katten.node.full.clearfix article{
+  border: 1px solid black;
+  border-radius: 25px;
+}
+
+article.katten.node.full.clearfix {
+  border: 1px solid black;
+  border-radius: 25px;
+}
 /* katten */
 
 /* paarden */
@@ -165,6 +229,37 @@
 }
 
 .contextual-region.paarden.node.full.clearfix {
+  border: 1px solid black;
+  border-radius: 25px;
+}
+
+
+
+article.paarden.node.full.clearfix img{
+
+  float: right;
+  padding-bottom: 40px;
+}
+
+.field.field--name-field-paardtypeimage.field--type-image.field--label-above .field--label{
+  display: none;
+}
+
+
+article.paarden.node.full.clearfix .content .field--label{
+  font:bold;
+  font-size: 20px;
+  color: #f36f36;
+}
+article.paarden.node.full.clearfix p {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+article.paarden.node.full.clearfix article{
+  border: 1px solid black;
+  border-radius: 25px;
+}
+
+article.paarden.node.full.clearfix {
   border: 1px solid black;
   border-radius: 25px;
 }
@@ -202,6 +297,37 @@
   border-radius: 25px;
 }
 
+
+
+article.konijnen.node.full.clearfix img{
+
+  float: right;
+  padding-bottom: 40px;
+}
+
+.field.field--name-field-konijntypeimage.field--type-image.field--label-above .field--label{
+  display: none;
+}
+
+
+article.konijnen.node.full.clearfix .field--label{
+  font:bold;
+  font-size: 20px;
+  color: #f36f36;
+}
+article.konijnen.node.full.clearfix p {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+article.konijnen.node.full.clearfix article{
+  border: 1px solid black;
+  border-radius: 25px;
+}
+
+article.konijnen.node.full.clearfix {
+  border: 1px solid black;
+  border-radius: 25px;
+}
+
 /* konijnen */
 /* kippen */
 
@@ -235,4 +361,50 @@
 }
 
 
+
+
+article.kippen.node.full.clearfix img{
+
+  float: right;
+  padding-bottom: 40px;
+}
+
+.field.field--name-field-kiptypeimage.field--type-image.field--label-above .field--label{
+  display: none;
+}
+
+
+article.kippen.node.full.clearfix .content .field--label{
+  font:bold;
+  font-size: 20px;
+  color: #f36f36;
+}
+article.kippen.node.full.clearfix p {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+article.kippen.node.full.clearfix article{
+  border: 1px solid black;
+  border-radius: 25px;
+}
+
+article.kippen.node.full.clearfix {
+  border: 1px solid black;
+  border-radius: 25px;
+}
+
 /* kippen */
+
+.carousel-inner img{
+  padding-top: 50px;
+}
+.menu.menu--account.nav.navbar-nav.navbar-right{
+padding-right:20px;
+}
+
+.menu.menu--account.nav.navbar-nav.navbar-right li{
+  padding-right: 20px;
+}
+
+.menu.menu--account.nav.navbar-nav.navbar-right a {
+  padding: 0px;
+}

@@ -1,0 +1,9 @@
+name: Aankopen dieren
+description: Klanten voeren hun aankopen in.
+package: Custom
+type: module
+dependencies: 
+  - block
+version: 1.0
+core: 8.x
+configure: rsvplist.admin_settings
